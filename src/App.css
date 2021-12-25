@@ -37,6 +37,15 @@
   }
 }
 
-a:hover{
-  color: red;
+.card--image {
+  width: 30%;
+  padding: 10%;
+  padding-bottom: 0;
+}
+
+
+.card--favorite {
+  width: 5%;
+  padding: 10%;
+  padding-bottom: 0;
 }
