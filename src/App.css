@@ -49,3 +49,9 @@
   padding: 10%;
   padding-bottom: 0;
 }
+
+.outPut {
+  margin: 10%;
+  padding: 200px;
+  border: solid;
+}
